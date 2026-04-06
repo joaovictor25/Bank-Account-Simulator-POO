@@ -1,0 +1,28 @@
+Abertura de conta
+- PF---
+- Primeiro nome
+- Sobrenome
+- Data de nascimento
+- Cep
+- Endereço
+- Cidade
+- Estado
+
+- PJ---
+- CNPJ
+
+
+- Menu geral
+
+Deposito
+- Digite valor
+
+Sacar
+- Mostra saldo atual
+- Quanto sacar
+- Mostrar saldo atualizado
+
+Ver saldo
+- Ver saldo
+
+Excluir conta
