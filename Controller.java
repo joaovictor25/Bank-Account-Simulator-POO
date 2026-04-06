@@ -27,7 +27,7 @@ public class Controller{
         }
     }
 
-    private void runPersonalAccount0(){
+    private void runPersonalAccount(){
         view.showAccountPersonal();
 
         view.showLabel("Primeiro nome: ");
